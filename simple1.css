@@ -1,0 +1,31 @@
+    #div1 {
+	background-color:#998FD2;
+	background-image:url(img_mountains.JPG);
+	opacity:1.9;
+	}
+  a{
+   	 border:5px black solid ;
+   	 width:50px;
+   	 height:50px;
+   	 margin:5px;  
+   	 font-size:30px;
+   	 text-decoration:none;
+
+   }
+   .head0{
+   	text-decoration:underline 20px;
+   color:yellow;
+   	font-size:40px;
+   	text-align:center;
+   }
+   .head2,p{
+   	 color:pink;
+   	 font-size:20px;
+
+   }
+    .head1{
+   	text-decoration:underline 20px;
+   color:red;
+   	font-size:40px;
+   	text-align:center;
+   }
